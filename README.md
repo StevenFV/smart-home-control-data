@@ -21,7 +21,7 @@ This repository contains the setup configuration for services Zigbee2MQTT and EM
 
 3. **Database Installation**
    * Install a PostgreSQL database.
-   * Create a databases who will be used for the Home-Control-App.
+   * Create a databases who will be used for the Smart-Home-Control-App.
 
 5. **Router Configuration - If you want access the application data remotely**
    * **Port Forwarding:**
